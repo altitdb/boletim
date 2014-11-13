@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boletim</string>
+    <string name="ra">RA</string>
+    <string name="ok">OK</string>
+    <string name="digite_seu_ra">Digite seu RA</string>
+    <string name="logo">Logo</string>
+    <string name="bem_vindo">Bem vindo</string>
+    <string name="title_activity_boletim">Boletim de Notas</string>
+    <string name="disciplina">Disciplina</string>
+    <string name="exame">Exame</string>
+    <string name="bim1">1° Bimestre</string>
+    <string name="bim2">2° Bimestre</string>
+    <string name="bim3">3° Bimestre</string>
+    <string name="bim4">4° Bimestre</string>
+
+</resources>
